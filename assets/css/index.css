@@ -401,7 +401,6 @@ li {
 }
 .hero-wrap .right img{
     width: 90%;
-    animation: flipy 5s linear  infinite;
 }
 @keyframes flipy {
     from {
